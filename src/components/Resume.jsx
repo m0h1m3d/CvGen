@@ -1,4 +1,4 @@
-import "../styles/resume.css";
+import "../styles/Resume.css";
 function Resume({ savedPersonal, savedEducation, savedPractical }) {
 
   return (
